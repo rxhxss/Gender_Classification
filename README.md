@@ -20,8 +20,14 @@
 | ⏳ Epochs          | 5 |
 | 💾 Dataset         | FACECOM|
 
+
+## Results on validation set
+| Model | Accuracy | Precision | Recall | F1-Score |
+|-------|----------|-----------|--------|----------|
+| Task_A | 92.18% | 95.06% | 95.34% | 95.30% |
+
 ## � Deployment
 
 🌍 **Hugging Face Model Hub**:  
-🔗 [https://huggingface.co/your-username/your-model-name](https://huggingface.co/spaces/rxhxss/Gender_Classification)
+🔗 [GenderAI🤖 ♀️♂️](https://huggingface.co/spaces/rxhxss/Gender_Classification)
 
